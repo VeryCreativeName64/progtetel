@@ -1,8 +1,8 @@
-import lista
+import progtetel
 
 
 """lista.megszamlalas()
 lista.osszegzes()
 lista.min()"""
 #lista.tizenharom()
-lista.eldontes1()
+progtetel.eldontes1()
